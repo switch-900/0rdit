@@ -533,7 +533,7 @@ function buildHTML(summary, timeline, rows, repoInfo, hScore, ext) {
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>ordinals/ord — Contributor Analysis</title>
+<title>Ord-it — An audit of ordinals/ord</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"><\/script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -665,7 +665,7 @@ function buildHTML(summary, timeline, rows, repoInfo, hScore, ext) {
 </head>
 <body>
 <header>
-  <h1>ordinals/ord — Contributor Analysis</h1>
+  <h1>Ord-it <span style="font-weight:400;color:var(--muted);font-size:14px">an audit of ordinals/ord</span></h1>
   <p>Generated ${generated} &nbsp;·&nbsp; <a href="https://github.com/ordinals/ord" target="_blank">github.com/ordinals/ord</a></p>
 </header>
 <div class="layout">
