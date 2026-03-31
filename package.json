@@ -1,0 +1,12 @@
+{
+  "name": "ord-pr-analysis",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Pull request + contributor analysis for ordinals/ord",
+  "scripts": {
+    "start": "node ord_pr_analysis.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

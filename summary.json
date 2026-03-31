@@ -1,0 +1,5238 @@
+[
+  {
+    "user": "casey",
+    "total": 1011,
+    "merged": 946,
+    "totalDays": 5171.62000000003,
+    "countDays": 1011,
+    "areas": {
+      "other": 538,
+      "test": 21,
+      "api": 44,
+      "indexer": 63,
+      "feat": 127,
+      "fix": 35,
+      "recursive": 4,
+      "wallet": 33,
+      "runes": 59,
+      "content": 39,
+      "docs": 18,
+      "cli": 25,
+      "refactor": 5
+    },
+    "quarters": {
+      "2026-Q1": 30,
+      "2025-Q4": 15,
+      "2025-Q3": 6,
+      "2025-Q2": 10,
+      "2025-Q1": 22,
+      "2024-Q4": 39,
+      "2024-Q3": 21,
+      "2024-Q2": 21,
+      "2024-Q1": 115,
+      "2023-Q4": 130,
+      "2023-Q3": 27,
+      "2023-Q2": 16,
+      "2023-Q1": 127,
+      "2022-Q4": 193,
+      "2022-Q3": 139,
+      "2022-Q2": 14,
+      "2022-Q1": 79,
+      "2021-Q4": 7
+    },
+    "firstPR": "2021-12-12T08:54:19Z",
+    "lastPR": "2026-03-29T20:46:47Z",
+    "mergeRate": 0.9357,
+    "avgDaysOpen": 5.12,
+    "primaryArea": "other",
+    "activeSpanDays": 1568
+  },
+  {
+    "user": "raphjaph",
+    "total": 362,
+    "merged": 294,
+    "totalDays": 3203.850000000003,
+    "countDays": 355,
+    "areas": {
+      "wallet": 71,
+      "refactor": 9,
+      "other": 149,
+      "api": 24,
+      "indexer": 19,
+      "content": 12,
+      "fix": 27,
+      "feat": 24,
+      "runes": 10,
+      "test": 6,
+      "cli": 7,
+      "recursive": 1,
+      "docs": 3
+    },
+    "quarters": {
+      "2025-Q3": 2,
+      "2025-Q2": 4,
+      "2025-Q1": 23,
+      "2024-Q4": 40,
+      "2024-Q3": 22,
+      "2024-Q2": 28,
+      "2024-Q1": 49,
+      "2023-Q4": 47,
+      "2023-Q3": 39,
+      "2023-Q2": 22,
+      "2023-Q1": 31,
+      "2022-Q4": 37,
+      "2022-Q3": 18
+    },
+    "firstPR": "2022-09-01T14:48:28Z",
+    "lastPR": "2025-08-18T19:37:53Z",
+    "mergeRate": 0.8122,
+    "avgDaysOpen": 9.02,
+    "primaryArea": "other",
+    "activeSpanDays": 1082
+  },
+  {
+    "user": "terror",
+    "total": 49,
+    "merged": 47,
+    "totalDays": 897.5799999999998,
+    "countDays": 49,
+    "areas": {
+      "other": 12,
+      "indexer": 11,
+      "fix": 1,
+      "feat": 8,
+      "api": 3,
+      "wallet": 8,
+      "cli": 2,
+      "refactor": 1,
+      "test": 3
+    },
+    "quarters": {
+      "2025-Q4": 1,
+      "2025-Q1": 1,
+      "2023-Q3": 1,
+      "2023-Q2": 1,
+      "2023-Q1": 4,
+      "2022-Q3": 25,
+      "2022-Q2": 4,
+      "2022-Q1": 12
+    },
+    "firstPR": "2022-01-28T23:38:53Z",
+    "lastPR": "2025-10-31T16:46:47Z",
+    "mergeRate": 0.9592,
+    "avgDaysOpen": 18.32,
+    "primaryArea": "other",
+    "activeSpanDays": 1372
+  },
+  {
+    "user": "gmart7t2",
+    "total": 46,
+    "merged": 37,
+    "totalDays": 2387.6299999999997,
+    "countDays": 45,
+    "areas": {
+      "runes": 2,
+      "indexer": 5,
+      "other": 14,
+      "api": 2,
+      "feat": 1,
+      "fix": 7,
+      "cli": 2,
+      "recursive": 1,
+      "wallet": 11,
+      "refactor": 1
+    },
+    "quarters": {
+      "2025-Q4": 2,
+      "2025-Q2": 1,
+      "2025-Q1": 2,
+      "2024-Q4": 3,
+      "2024-Q2": 8,
+      "2024-Q1": 4,
+      "2023-Q4": 2,
+      "2023-Q3": 5,
+      "2023-Q2": 2,
+      "2023-Q1": 17
+    },
+    "firstPR": "2023-02-27T19:21:50Z",
+    "lastPR": "2025-11-01T12:53:19Z",
+    "mergeRate": 0.8043,
+    "avgDaysOpen": 53.06,
+    "primaryArea": "other",
+    "activeSpanDays": 978
+  },
+  {
+    "user": "cryptoni9n",
+    "total": 29,
+    "merged": 26,
+    "totalDays": 367.84,
+    "countDays": 29,
+    "areas": {
+      "other": 13,
+      "api": 4,
+      "fix": 3,
+      "indexer": 3,
+      "runes": 3,
+      "wallet": 1,
+      "feat": 1,
+      "docs": 1
+    },
+    "quarters": {
+      "2025-Q1": 3,
+      "2024-Q4": 4,
+      "2024-Q3": 7,
+      "2024-Q2": 15
+    },
+    "firstPR": "2024-04-04T13:13:28Z",
+    "lastPR": "2025-02-17T22:33:01Z",
+    "mergeRate": 0.8966,
+    "avgDaysOpen": 12.68,
+    "primaryArea": "other",
+    "activeSpanDays": 319
+  },
+  {
+    "user": "elocremarc",
+    "total": 27,
+    "merged": 17,
+    "totalDays": 1048.52,
+    "countDays": 26,
+    "areas": {
+      "other": 10,
+      "content": 9,
+      "feat": 2,
+      "runes": 1,
+      "api": 4,
+      "cli": 1
+    },
+    "quarters": {
+      "2024-Q4": 1,
+      "2024-Q3": 3,
+      "2024-Q2": 3,
+      "2024-Q1": 3,
+      "2023-Q4": 7,
+      "2023-Q3": 8,
+      "2023-Q2": 2
+    },
+    "firstPR": "2023-06-22T10:55:09Z",
+    "lastPR": "2024-10-07T10:15:15Z",
+    "mergeRate": 0.6296,
+    "avgDaysOpen": 40.33,
+    "primaryArea": "other",
+    "activeSpanDays": 473
+  },
+  {
+    "user": "lugondev",
+    "total": 24,
+    "merged": 17,
+    "totalDays": 211.92000000000002,
+    "countDays": 24,
+    "areas": {
+      "runes": 10,
+      "test": 2,
+      "fix": 2,
+      "indexer": 1,
+      "feat": 2,
+      "other": 4,
+      "refactor": 1,
+      "wallet": 2
+    },
+    "quarters": {
+      "2024-Q2": 9,
+      "2024-Q1": 15
+    },
+    "firstPR": "2024-01-03T04:54:17Z",
+    "lastPR": "2024-04-18T16:10:51Z",
+    "mergeRate": 0.7083,
+    "avgDaysOpen": 8.83,
+    "primaryArea": "runes",
+    "activeSpanDays": 106
+  },
+  {
+    "user": "veryordinally",
+    "total": 20,
+    "merged": 15,
+    "totalDays": 298.93,
+    "countDays": 20,
+    "areas": {
+      "feat": 1,
+      "other": 6,
+      "content": 1,
+      "indexer": 4,
+      "api": 1,
+      "fix": 3,
+      "wallet": 2,
+      "cli": 2
+    },
+    "quarters": {
+      "2023-Q4": 2,
+      "2023-Q3": 7,
+      "2023-Q2": 2,
+      "2023-Q1": 1,
+      "2022-Q4": 4,
+      "2022-Q3": 4
+    },
+    "firstPR": "2022-09-09T19:48:50Z",
+    "lastPR": "2023-10-19T01:20:31Z",
+    "mergeRate": 0.75,
+    "avgDaysOpen": 14.95,
+    "primaryArea": "other",
+    "activeSpanDays": 404
+  },
+  {
+    "user": "DrJingLee",
+    "total": 17,
+    "merged": 12,
+    "totalDays": 148.95,
+    "countDays": 17,
+    "areas": {
+      "other": 13,
+      "runes": 1,
+      "docs": 2,
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q3": 1,
+      "2024-Q2": 1,
+      "2024-Q1": 1,
+      "2023-Q4": 2,
+      "2023-Q3": 10,
+      "2023-Q2": 2
+    },
+    "firstPR": "2023-05-11T18:34:27Z",
+    "lastPR": "2024-07-31T11:00:48Z",
+    "mergeRate": 0.7059,
+    "avgDaysOpen": 8.76,
+    "primaryArea": "other",
+    "activeSpanDays": 447
+  },
+  {
+    "user": "rot13maxi",
+    "total": 17,
+    "merged": 11,
+    "totalDays": 733.5400000000001,
+    "countDays": 17,
+    "areas": {
+      "cli": 4,
+      "runes": 1,
+      "wallet": 5,
+      "other": 5,
+      "feat": 1,
+      "api": 1
+    },
+    "quarters": {
+      "2024-Q2": 2,
+      "2024-Q1": 1,
+      "2023-Q4": 5,
+      "2023-Q1": 5,
+      "2022-Q4": 4
+    },
+    "firstPR": "2022-12-17T15:28:40Z",
+    "lastPR": "2024-04-11T21:11:29Z",
+    "mergeRate": 0.6471,
+    "avgDaysOpen": 43.15,
+    "primaryArea": "wallet",
+    "activeSpanDays": 481
+  },
+  {
+    "user": "lifofifoX",
+    "total": 20,
+    "merged": 9,
+    "totalDays": 2002.7599999999998,
+    "countDays": 20,
+    "areas": {
+      "other": 10,
+      "indexer": 1,
+      "wallet": 1,
+      "api": 3,
+      "runes": 2,
+      "recursive": 1,
+      "feat": 1,
+      "content": 1
+    },
+    "quarters": {
+      "2026-Q1": 2,
+      "2025-Q4": 1,
+      "2025-Q1": 2,
+      "2024-Q4": 5,
+      "2024-Q2": 1,
+      "2024-Q1": 2,
+      "2023-Q4": 6,
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-09-21T21:36:38Z",
+    "lastPR": "2026-02-13T21:41:57Z",
+    "mergeRate": 0.45,
+    "avgDaysOpen": 100.14,
+    "primaryArea": "other",
+    "activeSpanDays": 876
+  },
+  {
+    "user": "felipelincoln",
+    "total": 10,
+    "merged": 9,
+    "totalDays": 194.56999999999996,
+    "countDays": 9,
+    "areas": {
+      "other": 4,
+      "api": 1,
+      "indexer": 1,
+      "runes": 2,
+      "cli": 1,
+      "fix": 1
+    },
+    "quarters": {
+      "2025-Q3": 1,
+      "2025-Q1": 1,
+      "2024-Q2": 6,
+      "2024-Q1": 1,
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-09-22T02:57:50Z",
+    "lastPR": "2025-07-03T20:38:47Z",
+    "mergeRate": 0.9,
+    "avgDaysOpen": 21.62,
+    "primaryArea": "other",
+    "activeSpanDays": 651
+  },
+  {
+    "user": "bingryan",
+    "total": 16,
+    "merged": 8,
+    "totalDays": 321.96000000000004,
+    "countDays": 16,
+    "areas": {
+      "feat": 7,
+      "fix": 2,
+      "indexer": 1,
+      "refactor": 1,
+      "test": 1,
+      "wallet": 1,
+      "content": 1,
+      "api": 1,
+      "cli": 1
+    },
+    "quarters": {
+      "2024-Q2": 3,
+      "2024-Q1": 12,
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-07-01T07:24:42Z",
+    "lastPR": "2024-05-04T14:26:38Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 20.12,
+    "primaryArea": "feat",
+    "activeSpanDays": 308
+  },
+  {
+    "user": "twosatsmaxi",
+    "total": 15,
+    "merged": 7,
+    "totalDays": 419.74,
+    "countDays": 14,
+    "areas": {
+      "api": 2,
+      "other": 9,
+      "runes": 1,
+      "wallet": 2,
+      "fix": 1
+    },
+    "quarters": {
+      "2026-Q1": 1,
+      "2024-Q4": 1,
+      "2024-Q3": 3,
+      "2024-Q2": 10
+    },
+    "firstPR": "2024-04-02T11:01:57Z",
+    "lastPR": "2026-03-28T15:01:46Z",
+    "mergeRate": 0.4667,
+    "avgDaysOpen": 29.98,
+    "primaryArea": "other",
+    "activeSpanDays": 725
+  },
+  {
+    "user": "arik-so",
+    "total": 12,
+    "merged": 7,
+    "totalDays": 627.67,
+    "countDays": 11,
+    "areas": {
+      "api": 5,
+      "other": 5,
+      "content": 1,
+      "indexer": 1
+    },
+    "quarters": {
+      "2025-Q1": 2,
+      "2024-Q4": 3,
+      "2024-Q2": 1,
+      "2024-Q1": 5,
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-16T09:18:16Z",
+    "lastPR": "2025-02-01T02:18:43Z",
+    "mergeRate": 0.5833,
+    "avgDaysOpen": 57.06,
+    "primaryArea": "api",
+    "activeSpanDays": 716
+  },
+  {
+    "user": "zhiqiangxu",
+    "total": 8,
+    "merged": 6,
+    "totalDays": 57.849999999999994,
+    "countDays": 8,
+    "areas": {
+      "other": 4,
+      "fix": 1,
+      "indexer": 1,
+      "test": 1,
+      "docs": 1
+    },
+    "quarters": {
+      "2024-Q1": 8
+    },
+    "firstPR": "2024-01-17T11:45:50Z",
+    "lastPR": "2024-02-13T05:56:11Z",
+    "mergeRate": 0.75,
+    "avgDaysOpen": 7.23,
+    "primaryArea": "other",
+    "activeSpanDays": 27
+  },
+  {
+    "user": "andrewtoth",
+    "total": 11,
+    "merged": 6,
+    "totalDays": 657.7999999999998,
+    "countDays": 11,
+    "areas": {
+      "other": 6,
+      "indexer": 3,
+      "feat": 1,
+      "wallet": 1
+    },
+    "quarters": {
+      "2023-Q1": 11
+    },
+    "firstPR": "2023-02-03T19:26:35Z",
+    "lastPR": "2023-02-23T23:08:15Z",
+    "mergeRate": 0.5455,
+    "avgDaysOpen": 59.8,
+    "primaryArea": "other",
+    "activeSpanDays": 20
+  },
+  {
+    "user": "emilcondrea",
+    "total": 4,
+    "merged": 4,
+    "totalDays": 27.580000000000002,
+    "countDays": 4,
+    "areas": {
+      "indexer": 2,
+      "feat": 1,
+      "runes": 1
+    },
+    "quarters": {
+      "2025-Q1": 3,
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-03-22T10:28:40Z",
+    "lastPR": "2025-02-10T14:47:23Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 6.9,
+    "primaryArea": "indexer",
+    "activeSpanDays": 325
+  },
+  {
+    "user": "partialord",
+    "total": 4,
+    "merged": 4,
+    "totalDays": 32.25,
+    "countDays": 4,
+    "areas": {
+      "feat": 1,
+      "other": 2,
+      "indexer": 1
+    },
+    "quarters": {
+      "2024-Q4": 1,
+      "2024-Q3": 3
+    },
+    "firstPR": "2024-08-27T20:38:16Z",
+    "lastPR": "2024-11-17T07:53:44Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 8.06,
+    "primaryArea": "other",
+    "activeSpanDays": 81
+  },
+  {
+    "user": "cberner",
+    "total": 4,
+    "merged": 4,
+    "totalDays": 28.38,
+    "countDays": 4,
+    "areas": {
+      "other": 3,
+      "api": 1
+    },
+    "quarters": {
+      "2024-Q1": 1,
+      "2023-Q4": 1,
+      "2022-Q4": 1,
+      "2022-Q1": 1
+    },
+    "firstPR": "2022-02-21T05:44:02Z",
+    "lastPR": "2024-03-22T19:24:26Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 7.09,
+    "primaryArea": "other",
+    "activeSpanDays": 761
+  },
+  {
+    "user": "ordinaHO",
+    "total": 9,
+    "merged": 4,
+    "totalDays": 96.44000000000001,
+    "countDays": 9,
+    "areas": {
+      "other": 5,
+      "feat": 4
+    },
+    "quarters": {
+      "2023-Q3": 9
+    },
+    "firstPR": "2023-08-24T14:32:21Z",
+    "lastPR": "2023-09-18T07:33:50Z",
+    "mergeRate": 0.4444,
+    "avgDaysOpen": 10.72,
+    "primaryArea": "other",
+    "activeSpanDays": 25
+  },
+  {
+    "user": "soenkehahn",
+    "total": 7,
+    "merged": 4,
+    "totalDays": 336.48999999999995,
+    "countDays": 7,
+    "areas": {
+      "feat": 1,
+      "test": 2,
+      "refactor": 1,
+      "other": 2,
+      "cli": 1
+    },
+    "quarters": {
+      "2023-Q2": 6,
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-23T16:37:20Z",
+    "lastPR": "2023-04-25T18:06:47Z",
+    "mergeRate": 0.5714,
+    "avgDaysOpen": 48.07,
+    "primaryArea": "test",
+    "activeSpanDays": 33
+  },
+  {
+    "user": "ldiego08",
+    "total": 6,
+    "merged": 3,
+    "totalDays": 44.209999999999994,
+    "countDays": 4,
+    "areas": {
+      "runes": 2,
+      "other": 2,
+      "wallet": 1,
+      "cli": 1
+    },
+    "quarters": {
+      "2026-Q1": 2,
+      "2024-Q2": 4
+    },
+    "firstPR": "2024-04-24T18:34:18Z",
+    "lastPR": "2026-02-04T20:41:23Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 11.05,
+    "primaryArea": "runes",
+    "activeSpanDays": 651
+  },
+  {
+    "user": "SatoshiRoppongi",
+    "total": 6,
+    "merged": 3,
+    "totalDays": 190.28,
+    "countDays": 4,
+    "areas": {
+      "cli": 1,
+      "feat": 3,
+      "other": 1,
+      "fix": 1
+    },
+    "quarters": {
+      "2025-Q3": 4,
+      "2025-Q2": 1,
+      "2025-Q1": 1
+    },
+    "firstPR": "2025-01-17T23:28:36Z",
+    "lastPR": "2025-09-14T02:57:27Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 47.57,
+    "primaryArea": "feat",
+    "activeSpanDays": 239
+  },
+  {
+    "user": "SmarakNayak",
+    "total": 3,
+    "merged": 3,
+    "totalDays": 12.889999999999999,
+    "countDays": 3,
+    "areas": {
+      "other": 3
+    },
+    "quarters": {
+      "2025-Q2": 1,
+      "2025-Q1": 1,
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-10-29T06:12:47Z",
+    "lastPR": "2025-04-20T04:54:02Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 4.3,
+    "primaryArea": "other",
+    "activeSpanDays": 539
+  },
+  {
+    "user": "cryptoquick",
+    "total": 5,
+    "merged": 3,
+    "totalDays": 21.330000000000002,
+    "countDays": 5,
+    "areas": {
+      "feat": 4,
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q4": 1,
+      "2024-Q1": 1,
+      "2023-Q1": 3
+    },
+    "firstPR": "2023-01-27T22:48:12Z",
+    "lastPR": "2024-11-25T14:32:15Z",
+    "mergeRate": 0.6,
+    "avgDaysOpen": 4.27,
+    "primaryArea": "feat",
+    "activeSpanDays": 668
+  },
+  {
+    "user": "onchainguy-btc",
+    "total": 6,
+    "merged": 3,
+    "totalDays": 328.39,
+    "countDays": 6,
+    "areas": {
+      "other": 4,
+      "feat": 2
+    },
+    "quarters": {
+      "2024-Q4": 1,
+      "2024-Q3": 2,
+      "2024-Q2": 1,
+      "2023-Q4": 1,
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-06-26T12:56:32Z",
+    "lastPR": "2024-11-10T20:52:12Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 54.73,
+    "primaryArea": "other",
+    "activeSpanDays": 503
+  },
+  {
+    "user": "furo-tests-in-prod",
+    "total": 2,
+    "merged": 2,
+    "totalDays": 12.61,
+    "countDays": 2,
+    "areas": {
+      "fix": 2
+    },
+    "quarters": {
+      "2025-Q2": 2
+    },
+    "firstPR": "2025-05-10T16:09:18Z",
+    "lastPR": "2025-05-10T16:10:03Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 6.3,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "phorkish",
+    "total": 2,
+    "merged": 2,
+    "totalDays": 19.69,
+    "countDays": 2,
+    "areas": {
+      "recursive": 1,
+      "api": 1
+    },
+    "quarters": {
+      "2024-Q2": 2
+    },
+    "firstPR": "2024-05-13T20:37:33Z",
+    "lastPR": "2024-05-14T01:39:05Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 9.85,
+    "primaryArea": "recursive",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "shadowv0vshadow",
+    "total": 2,
+    "merged": 2,
+    "totalDays": 20.08,
+    "countDays": 2,
+    "areas": {
+      "api": 1,
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q2": 2
+    },
+    "firstPR": "2024-04-26T07:41:11Z",
+    "lastPR": "2024-05-07T15:45:32Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 10.04,
+    "primaryArea": "api",
+    "activeSpanDays": 11
+  },
+  {
+    "user": "losingle",
+    "total": 3,
+    "merged": 2,
+    "totalDays": 17.4,
+    "countDays": 3,
+    "areas": {
+      "other": 1,
+      "fix": 2
+    },
+    "quarters": {
+      "2024-Q2": 3
+    },
+    "firstPR": "2024-04-17T23:29:08Z",
+    "lastPR": "2024-05-03T09:07:36Z",
+    "mergeRate": 0.6667,
+    "avgDaysOpen": 5.8,
+    "primaryArea": "fix",
+    "activeSpanDays": 15
+  },
+  {
+    "user": "hantuzun",
+    "total": 2,
+    "merged": 2,
+    "totalDays": 11.77,
+    "countDays": 2,
+    "areas": {
+      "runes": 1,
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q2": 1,
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-05T19:31:41Z",
+    "lastPR": "2024-04-24T20:10:14Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 5.88,
+    "primaryArea": "runes",
+    "activeSpanDays": 444
+  },
+  {
+    "user": "JeremyRubin",
+    "total": 2,
+    "merged": 2,
+    "totalDays": 18.369999999999997,
+    "countDays": 2,
+    "areas": {
+      "other": 2
+    },
+    "quarters": {
+      "2024-Q2": 1,
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-01-21T17:40:46Z",
+    "lastPR": "2024-04-19T12:54:10Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 9.18,
+    "primaryArea": "other",
+    "activeSpanDays": 89
+  },
+  {
+    "user": "oxSaturn",
+    "total": 3,
+    "merged": 2,
+    "totalDays": 7.6899999999999995,
+    "countDays": 3,
+    "areas": {
+      "other": 2,
+      "content": 1
+    },
+    "quarters": {
+      "2024-Q2": 1,
+      "2024-Q1": 2
+    },
+    "firstPR": "2024-01-10T14:01:20Z",
+    "lastPR": "2024-04-18T13:11:04Z",
+    "mergeRate": 0.6667,
+    "avgDaysOpen": 2.56,
+    "primaryArea": "other",
+    "activeSpanDays": 99
+  },
+  {
+    "user": "RandolphJiffy",
+    "total": 2,
+    "merged": 2,
+    "totalDays": 4.4,
+    "countDays": 2,
+    "areas": {
+      "fix": 2
+    },
+    "quarters": {
+      "2024-Q2": 2
+    },
+    "firstPR": "2024-04-04T08:32:48Z",
+    "lastPR": "2024-04-10T02:09:24Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 2.2,
+    "primaryArea": "fix",
+    "activeSpanDays": 6
+  },
+  {
+    "user": "ynohtna92",
+    "total": 3,
+    "merged": 2,
+    "totalDays": 126.03,
+    "countDays": 3,
+    "areas": {
+      "other": 1,
+      "cli": 1,
+      "api": 1
+    },
+    "quarters": {
+      "2024-Q2": 2,
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-04-21T22:38:20Z",
+    "lastPR": "2024-04-09T21:33:04Z",
+    "mergeRate": 0.6667,
+    "avgDaysOpen": 42.01,
+    "primaryArea": "other",
+    "activeSpanDays": 354
+  },
+  {
+    "user": "Vanniix",
+    "total": 2,
+    "merged": 2,
+    "totalDays": 54.540000000000006,
+    "countDays": 2,
+    "areas": {
+      "content": 2
+    },
+    "quarters": {
+      "2024-Q1": 1,
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-06-21T02:17:24Z",
+    "lastPR": "2024-03-02T23:46:57Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 27.27,
+    "primaryArea": "content",
+    "activeSpanDays": 256
+  },
+  {
+    "user": "mi-yu",
+    "total": 5,
+    "merged": 2,
+    "totalDays": 77.01,
+    "countDays": 5,
+    "areas": {
+      "other": 3,
+      "fix": 2
+    },
+    "quarters": {
+      "2024-Q1": 2,
+      "2023-Q4": 3
+    },
+    "firstPR": "2023-10-16T19:44:53Z",
+    "lastPR": "2024-02-18T00:36:31Z",
+    "mergeRate": 0.4,
+    "avgDaysOpen": 15.4,
+    "primaryArea": "other",
+    "activeSpanDays": 124
+  },
+  {
+    "user": "mj10021",
+    "total": 3,
+    "merged": 2,
+    "totalDays": 55.97,
+    "countDays": 3,
+    "areas": {
+      "wallet": 1,
+      "feat": 1,
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q1": 3
+    },
+    "firstPR": "2024-01-03T20:07:43Z",
+    "lastPR": "2024-01-16T02:17:47Z",
+    "mergeRate": 0.6667,
+    "avgDaysOpen": 18.66,
+    "primaryArea": "wallet",
+    "activeSpanDays": 12
+  },
+  {
+    "user": "vuittont60",
+    "total": 2,
+    "merged": 2,
+    "totalDays": 0.62,
+    "countDays": 2,
+    "areas": {
+      "fix": 2
+    },
+    "quarters": {
+      "2023-Q4": 2
+    },
+    "firstPR": "2023-11-23T09:25:01Z",
+    "lastPR": "2023-12-01T13:57:55Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.31,
+    "primaryArea": "fix",
+    "activeSpanDays": 8
+  },
+  {
+    "user": "eagr",
+    "total": 4,
+    "merged": 2,
+    "totalDays": 213.94,
+    "countDays": 4,
+    "areas": {
+      "other": 4
+    },
+    "quarters": {
+      "2023-Q4": 4
+    },
+    "firstPR": "2023-11-08T14:37:56Z",
+    "lastPR": "2023-11-16T16:57:17Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 53.48,
+    "primaryArea": "other",
+    "activeSpanDays": 8
+  },
+  {
+    "user": "jcatama",
+    "total": 2,
+    "merged": 2,
+    "totalDays": 5.78,
+    "countDays": 2,
+    "areas": {
+      "other": 2
+    },
+    "quarters": {
+      "2023-Q4": 1,
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-09-30T17:05:22Z",
+    "lastPR": "2023-10-11T03:21:17Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 2.89,
+    "primaryArea": "other",
+    "activeSpanDays": 10
+  },
+  {
+    "user": "Psifour",
+    "total": 3,
+    "merged": 2,
+    "totalDays": 79.32000000000001,
+    "countDays": 3,
+    "areas": {
+      "feat": 1,
+      "other": 1,
+      "cli": 1
+    },
+    "quarters": {
+      "2023-Q3": 1,
+      "2023-Q1": 2
+    },
+    "firstPR": "2023-02-11T07:26:41Z",
+    "lastPR": "2023-09-13T06:44:30Z",
+    "mergeRate": 0.6667,
+    "avgDaysOpen": 26.44,
+    "primaryArea": "feat",
+    "activeSpanDays": 214
+  },
+  {
+    "user": "windsok",
+    "total": 3,
+    "merged": 2,
+    "totalDays": 1.98,
+    "countDays": 3,
+    "areas": {
+      "wallet": 1,
+      "indexer": 1,
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 2,
+      "2022-Q3": 1
+    },
+    "firstPR": "2022-09-26T04:47:10Z",
+    "lastPR": "2023-02-14T22:20:31Z",
+    "mergeRate": 0.6667,
+    "avgDaysOpen": 0.66,
+    "primaryArea": "wallet",
+    "activeSpanDays": 142
+  },
+  {
+    "user": "whoabuddy",
+    "total": 3,
+    "merged": 2,
+    "totalDays": 207.67000000000002,
+    "countDays": 3,
+    "areas": {
+      "feat": 3
+    },
+    "quarters": {
+      "2023-Q1": 3
+    },
+    "firstPR": "2023-02-08T18:18:39Z",
+    "lastPR": "2023-02-09T13:32:12Z",
+    "mergeRate": 0.6667,
+    "avgDaysOpen": 69.22,
+    "primaryArea": "feat",
+    "activeSpanDays": 1
+  },
+  {
+    "user": "jurraca",
+    "total": 2,
+    "merged": 2,
+    "totalDays": 0.14,
+    "countDays": 2,
+    "areas": {
+      "other": 1,
+      "feat": 1
+    },
+    "quarters": {
+      "2022-Q3": 1,
+      "2022-Q2": 1
+    },
+    "firstPR": "2022-06-08T21:01:20Z",
+    "lastPR": "2022-09-04T19:00:25Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.07,
+    "primaryArea": "other",
+    "activeSpanDays": 88
+  },
+  {
+    "user": "RobertClarke",
+    "total": 2,
+    "merged": 1,
+    "totalDays": 2.13,
+    "countDays": 1,
+    "areas": {
+      "other": 1,
+      "wallet": 1
+    },
+    "quarters": {
+      "2026-Q1": 1,
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-01-13T18:14:19Z",
+    "lastPR": "2026-01-04T19:07:04Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 2.13,
+    "primaryArea": "other",
+    "activeSpanDays": 722
+  },
+  {
+    "user": "8144225309",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 24.69,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2026-Q1": 1
+    },
+    "firstPR": "2026-01-04T10:14:32Z",
+    "lastPR": "2026-01-04T10:14:32Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 24.69,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "rejected-l",
+    "total": 2,
+    "merged": 1,
+    "totalDays": 89.03,
+    "countDays": 2,
+    "areas": {
+      "other": 2
+    },
+    "quarters": {
+      "2025-Q4": 1,
+      "2025-Q3": 1
+    },
+    "firstPR": "2025-08-12T10:52:47Z",
+    "lastPR": "2025-11-24T08:53:45Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 44.52,
+    "primaryArea": "other",
+    "activeSpanDays": 104
+  },
+  {
+    "user": "stemlaud",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.57,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2025-Q4": 1
+    },
+    "firstPR": "2025-10-13T09:27:04Z",
+    "lastPR": "2025-10-13T09:27:04Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.57,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Galoretka",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 6.27,
+    "countDays": 1,
+    "areas": {
+      "api": 1
+    },
+    "quarters": {
+      "2025-Q3": 1
+    },
+    "firstPR": "2025-07-16T14:13:06Z",
+    "lastPR": "2025-07-16T14:13:06Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 6.27,
+    "primaryArea": "api",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "blieb",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 39.97,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-05-20T20:45:01Z",
+    "lastPR": "2025-05-20T20:45:01Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 39.97,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "actuallycabbage",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 1.01,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-05-19T17:53:16Z",
+    "lastPR": "2025-05-19T17:53:16Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 1.01,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "GarmashAlex",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.25,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-04-30T16:18:53Z",
+    "lastPR": "2025-04-30T16:18:53Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.25,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "gap-editor",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 4.3,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-04-25T12:22:00Z",
+    "lastPR": "2025-04-25T12:22:00Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 4.3,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "dizer-ti",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 6.41,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-04-23T09:23:33Z",
+    "lastPR": "2025-04-23T09:23:33Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 6.41,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "VolodymyrBg",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 12.94,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-04-17T16:13:09Z",
+    "lastPR": "2025-04-17T16:13:09Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 12.94,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "0xbasar",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 14.71,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-04-15T02:52:33Z",
+    "lastPR": "2025-04-15T02:52:33Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 14.71,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "owenzimmew06",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 5.37,
+    "countDays": 1,
+    "areas": {
+      "wallet": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-04-08T09:36:16Z",
+    "lastPR": "2025-04-08T09:36:16Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 5.37,
+    "primaryArea": "wallet",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "leopardracer",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 7.31,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-04-06T10:48:56Z",
+    "lastPR": "2025-04-06T10:48:56Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 7.31,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "jtraub91",
+    "total": 2,
+    "merged": 1,
+    "totalDays": 25.25,
+    "countDays": 2,
+    "areas": {
+      "docs": 1,
+      "content": 1
+    },
+    "quarters": {
+      "2025-Q1": 2
+    },
+    "firstPR": "2025-03-10T17:54:56Z",
+    "lastPR": "2025-03-10T19:55:47Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 12.63,
+    "primaryArea": "docs",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "NCrashed",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 5.23,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2025-Q1": 1
+    },
+    "firstPR": "2025-02-28T17:28:27Z",
+    "lastPR": "2025-02-28T17:28:27Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 5.23,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "oxbau",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.39,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2025-Q1": 1
+    },
+    "firstPR": "2025-02-28T13:04:00Z",
+    "lastPR": "2025-02-28T13:04:00Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.39,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "costcould",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.05,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2025-Q1": 1
+    },
+    "firstPR": "2025-02-25T15:57:25Z",
+    "lastPR": "2025-02-25T15:57:25Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.05,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "renshuncui",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.09,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2025-Q1": 1
+    },
+    "firstPR": "2025-02-13T14:53:35Z",
+    "lastPR": "2025-02-13T14:53:35Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.09,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "ZedZeroth",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.27,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q4": 1
+    },
+    "firstPR": "2024-12-26T13:50:30Z",
+    "lastPR": "2024-12-26T13:50:30Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.27,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "samedcildir",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 36.37,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q4": 1
+    },
+    "firstPR": "2024-12-22T12:01:01Z",
+    "lastPR": "2024-12-22T12:01:01Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 36.37,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "astralarkitekt",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 56.89,
+    "countDays": 1,
+    "areas": {
+      "indexer": 1
+    },
+    "quarters": {
+      "2024-Q4": 1
+    },
+    "firstPR": "2024-11-29T01:18:19Z",
+    "lastPR": "2024-11-29T01:18:19Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 56.89,
+    "primaryArea": "indexer",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "mvdnbrk",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.48,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q4": 1
+    },
+    "firstPR": "2024-11-26T08:51:24Z",
+    "lastPR": "2024-11-26T08:51:24Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.48,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "arronzhang",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 3.94,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q4": 1
+    },
+    "firstPR": "2024-11-17T08:09:20Z",
+    "lastPR": "2024-11-17T08:09:20Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 3.94,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Th0rgal",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.76,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q4": 1
+    },
+    "firstPR": "2024-11-14T08:47:02Z",
+    "lastPR": "2024-11-14T08:47:02Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.76,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "pokrovskyy",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 14.1,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q4": 1
+    },
+    "firstPR": "2024-11-07T04:34:33Z",
+    "lastPR": "2024-11-07T04:34:33Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 14.1,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "kbehouse",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 16.64,
+    "countDays": 1,
+    "areas": {
+      "recursive": 1
+    },
+    "quarters": {
+      "2024-Q4": 1
+    },
+    "firstPR": "2024-11-04T17:24:36Z",
+    "lastPR": "2024-11-04T17:24:36Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 16.64,
+    "primaryArea": "recursive",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "tiaoxizhan",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.03,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q3": 1
+    },
+    "firstPR": "2024-09-13T10:18:30Z",
+    "lastPR": "2024-09-13T10:18:30Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.03,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Tibebtc",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 5.16,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q3": 1
+    },
+    "firstPR": "2024-08-23T12:19:51Z",
+    "lastPR": "2024-08-23T12:19:51Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 5.16,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "patrick99e99",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.72,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q3": 1
+    },
+    "firstPR": "2024-08-12T23:41:07Z",
+    "lastPR": "2024-08-12T23:41:07Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.72,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "ansigroup",
+    "total": 2,
+    "merged": 1,
+    "totalDays": 20.17,
+    "countDays": 2,
+    "areas": {
+      "other": 2
+    },
+    "quarters": {
+      "2024-Q3": 2
+    },
+    "firstPR": "2024-07-16T19:42:28Z",
+    "lastPR": "2024-07-16T19:53:30Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 10.09,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "TheHeBoy",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 1.14,
+    "countDays": 1,
+    "areas": {
+      "docs": 1
+    },
+    "quarters": {
+      "2024-Q3": 1
+    },
+    "firstPR": "2024-07-09T09:54:54Z",
+    "lastPR": "2024-07-09T09:54:54Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 1.14,
+    "primaryArea": "docs",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "0xArtur",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 16.96,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q3": 1
+    },
+    "firstPR": "2024-07-02T15:05:39Z",
+    "lastPR": "2024-07-02T15:05:39Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 16.96,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Zerone495",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.93,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-06-29T23:08:48Z",
+    "lastPR": "2024-06-29T23:08:48Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.93,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "yoitsyoung",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 4.91,
+    "countDays": 1,
+    "areas": {
+      "runes": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-06-24T19:27:41Z",
+    "lastPR": "2024-06-24T19:27:41Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 4.91,
+    "primaryArea": "runes",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "nick07002",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 10.93,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-06-16T22:47:36Z",
+    "lastPR": "2024-06-16T22:47:36Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 10.93,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "thewrlck",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 2.63,
+    "countDays": 1,
+    "areas": {
+      "indexer": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-06-06T07:11:01Z",
+    "lastPR": "2024-06-06T07:11:01Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 2.63,
+    "primaryArea": "indexer",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "benbuschmann",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 9.5,
+    "countDays": 1,
+    "areas": {
+      "api": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-05-14T23:26:00Z",
+    "lastPR": "2024-05-14T23:26:00Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 9.5,
+    "primaryArea": "api",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "jeasonstudio",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 8.26,
+    "countDays": 1,
+    "areas": {
+      "test": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-05-09T09:05:48Z",
+    "lastPR": "2024-05-09T09:05:48Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 8.26,
+    "primaryArea": "test",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "knowmost",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.02,
+    "countDays": 1,
+    "areas": {
+      "refactor": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-28T09:16:55Z",
+    "lastPR": "2024-04-28T09:16:55Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.02,
+    "primaryArea": "refactor",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "taha-abbasi",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 1.83,
+    "countDays": 1,
+    "areas": {
+      "wallet": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-20T23:18:45Z",
+    "lastPR": "2024-04-20T23:18:45Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 1.83,
+    "primaryArea": "wallet",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "zmeyer44",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 1.96,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-17T20:48:53Z",
+    "lastPR": "2024-04-17T20:48:53Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 1.96,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "StevenMia",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 1.17,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-15T11:48:24Z",
+    "lastPR": "2024-04-15T11:48:24Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 1.17,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "blackj-x",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 1.36,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-15T06:57:09Z",
+    "lastPR": "2024-04-15T06:57:09Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 1.36,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "rongyi",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.45,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-12T10:17:30Z",
+    "lastPR": "2024-04-12T10:17:30Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.45,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "nix-eth",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.72,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-12T02:54:58Z",
+    "lastPR": "2024-04-12T02:54:58Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.72,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "jahvi",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 6.97,
+    "countDays": 1,
+    "areas": {
+      "content": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-10T23:14:34Z",
+    "lastPR": "2024-04-10T23:14:34Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 6.97,
+    "primaryArea": "content",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "tgscan",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 1.64,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-09T11:30:33Z",
+    "lastPR": "2024-04-09T11:30:33Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 1.64,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "petriuslima",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 3.73,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-04T00:58:34Z",
+    "lastPR": "2024-04-04T00:58:34Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 3.73,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "ordinariusprof",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 4.99,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-02T16:42:55Z",
+    "lastPR": "2024-04-02T16:42:55Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 4.99,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "bitspill",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.54,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-02T07:35:13Z",
+    "lastPR": "2024-04-02T07:35:13Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.54,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "0xbc1p",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.05,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-03-31T17:35:41Z",
+    "lastPR": "2024-03-31T17:35:41Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.05,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "xiaoxianBoy",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.85,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-03-30T03:03:14Z",
+    "lastPR": "2024-03-30T03:03:14Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.85,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "chendatony31",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.48,
+    "countDays": 1,
+    "areas": {
+      "runes": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-03-28T09:07:52Z",
+    "lastPR": "2024-03-28T09:07:52Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.48,
+    "primaryArea": "runes",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "markovichecha",
+    "total": 3,
+    "merged": 1,
+    "totalDays": 134.96,
+    "countDays": 3,
+    "areas": {
+      "indexer": 1,
+      "other": 1,
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q1": 3
+    },
+    "firstPR": "2024-03-22T17:33:20Z",
+    "lastPR": "2024-03-25T21:15:37Z",
+    "mergeRate": 0.3333,
+    "avgDaysOpen": 44.99,
+    "primaryArea": "indexer",
+    "activeSpanDays": 3
+  },
+  {
+    "user": "chasefleming",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.31,
+    "countDays": 1,
+    "areas": {
+      "cli": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-03-13T21:02:11Z",
+    "lastPR": "2024-03-13T21:02:11Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.31,
+    "primaryArea": "cli",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "sondotpin",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 7.23,
+    "countDays": 1,
+    "areas": {
+      "test": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-03-10T17:41:15Z",
+    "lastPR": "2024-03-10T17:41:15Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 7.23,
+    "primaryArea": "test",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "andrewhong5297",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.25,
+    "countDays": 1,
+    "areas": {
+      "cli": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-03-07T13:00:48Z",
+    "lastPR": "2024-03-07T13:00:48Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.25,
+    "primaryArea": "cli",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "aekasitt",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.01,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-02-28T00:15:36Z",
+    "lastPR": "2024-02-28T00:15:36Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.01,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "HarveyV",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 1.12,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-02-14T22:01:30Z",
+    "lastPR": "2024-02-14T22:01:30Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 1.12,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "jerryfane",
+    "total": 2,
+    "merged": 1,
+    "totalDays": 17.25,
+    "countDays": 2,
+    "areas": {
+      "feat": 1,
+      "api": 1
+    },
+    "quarters": {
+      "2024-Q1": 2
+    },
+    "firstPR": "2024-01-27T08:48:12Z",
+    "lastPR": "2024-02-02T12:19:01Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 8.63,
+    "primaryArea": "feat",
+    "activeSpanDays": 6
+  },
+  {
+    "user": "victorkirov",
+    "total": 3,
+    "merged": 1,
+    "totalDays": 3.26,
+    "countDays": 3,
+    "areas": {
+      "wallet": 1,
+      "fix": 1,
+      "indexer": 1
+    },
+    "quarters": {
+      "2024-Q1": 1,
+      "2023-Q3": 2
+    },
+    "firstPR": "2023-07-13T06:35:29Z",
+    "lastPR": "2024-01-31T09:00:36Z",
+    "mergeRate": 0.3333,
+    "avgDaysOpen": 1.09,
+    "primaryArea": "wallet",
+    "activeSpanDays": 202
+  },
+  {
+    "user": "DaviRain-Su",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 3.52,
+    "countDays": 1,
+    "areas": {
+      "api": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-01-12T09:52:20Z",
+    "lastPR": "2024-01-12T09:52:20Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 3.52,
+    "primaryArea": "api",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "GoodDaisy",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 1.4,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-01-07T14:50:51Z",
+    "lastPR": "2024-01-07T14:50:51Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 1.4,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "lateminer",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 6.25,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-01-02T18:59:44Z",
+    "lastPR": "2024-01-02T18:59:44Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 6.25,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Thabokani",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 2.11,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-12-31T14:33:09Z",
+    "lastPR": "2023-12-31T14:33:09Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 2.11,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "nikicat",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 2.03,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-12-24T20:02:34Z",
+    "lastPR": "2023-12-24T20:02:34Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 2.03,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "torkelrogstad",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 7.84,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-12-20T15:13:01Z",
+    "lastPR": "2023-12-20T15:13:01Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 7.84,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "xiaolou86",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.45,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-11-29T09:41:50Z",
+    "lastPR": "2023-11-29T09:41:50Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.45,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "duttydeedz",
+    "total": 3,
+    "merged": 1,
+    "totalDays": 35.11,
+    "countDays": 3,
+    "areas": {
+      "other": 3
+    },
+    "quarters": {
+      "2023-Q4": 3
+    },
+    "firstPR": "2023-10-09T17:55:05Z",
+    "lastPR": "2023-11-08T23:14:38Z",
+    "mergeRate": 0.3333,
+    "avgDaysOpen": 11.7,
+    "primaryArea": "other",
+    "activeSpanDays": 30
+  },
+  {
+    "user": "yixinrock",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.5,
+    "countDays": 1,
+    "areas": {
+      "docs": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-11-02T05:41:53Z",
+    "lastPR": "2023-11-02T05:41:53Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.5,
+    "primaryArea": "docs",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "namcios",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 3.79,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-10-22T23:04:27Z",
+    "lastPR": "2023-10-22T23:04:27Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 3.79,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Neofishtwo",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 2.55,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-10-18T00:47:13Z",
+    "lastPR": "2023-10-18T00:47:13Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 2.55,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "rupturenft",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.85,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-10-09T22:29:12Z",
+    "lastPR": "2023-10-09T22:29:12Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.85,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "uzyn",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.19,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-09-25T15:27:32Z",
+    "lastPR": "2023-09-25T15:27:32Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.19,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "omahs",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.1,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-08-13T10:09:24Z",
+    "lastPR": "2023-08-13T10:09:24Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.1,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "niftynei",
+    "total": 2,
+    "merged": 1,
+    "totalDays": 4.77,
+    "countDays": 2,
+    "areas": {
+      "other": 1,
+      "test": 1
+    },
+    "quarters": {
+      "2023-Q3": 1,
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-02T01:13:47Z",
+    "lastPR": "2023-07-16T18:35:56Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 2.38,
+    "primaryArea": "other",
+    "activeSpanDays": 165
+  },
+  {
+    "user": "Mathieu-Be",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 36.14,
+    "countDays": 1,
+    "areas": {
+      "api": 1
+    },
+    "quarters": {
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-07-05T07:07:30Z",
+    "lastPR": "2023-07-05T07:07:30Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 36.14,
+    "primaryArea": "api",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "revofusion",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.7,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-07-01T16:34:38Z",
+    "lastPR": "2023-07-01T16:34:38Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.7,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "ilanolkies",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 3.05,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-06-25T19:16:46Z",
+    "lastPR": "2023-06-25T19:16:46Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 3.05,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "LightRider5",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 1.16,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-06-05T12:51:43Z",
+    "lastPR": "2023-06-05T12:51:43Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 1.16,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "eltociear",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 19.8,
+    "countDays": 1,
+    "areas": {
+      "wallet": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-05-10T15:28:17Z",
+    "lastPR": "2023-05-10T15:28:17Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 19.8,
+    "primaryArea": "wallet",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "bonedaddy",
+    "total": 2,
+    "merged": 1,
+    "totalDays": 236.44,
+    "countDays": 2,
+    "areas": {
+      "feat": 2
+    },
+    "quarters": {
+      "2023-Q1": 2
+    },
+    "firstPR": "2023-03-22T01:17:26Z",
+    "lastPR": "2023-03-22T01:18:13Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 118.22,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "neunenak",
+    "total": 2,
+    "merged": 1,
+    "totalDays": 363.29,
+    "countDays": 2,
+    "areas": {
+      "other": 1,
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q1": 2
+    },
+    "firstPR": "2023-02-16T07:45:31Z",
+    "lastPR": "2023-03-05T09:47:28Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 181.65,
+    "primaryArea": "other",
+    "activeSpanDays": 17
+  },
+  {
+    "user": "cbspears",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.01,
+    "countDays": 1,
+    "areas": {
+      "docs": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-23T20:59:46Z",
+    "lastPR": "2023-02-23T20:59:46Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.01,
+    "primaryArea": "docs",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "toddynho",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-21T21:37:16Z",
+    "lastPR": "2023-02-21T21:37:16Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "bnonni",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 3.42,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-18T12:05:15Z",
+    "lastPR": "2023-02-18T12:05:15Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 3.42,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "carlosalaniz",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 162.44,
+    "countDays": 1,
+    "areas": {
+      "wallet": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-16T04:54:06Z",
+    "lastPR": "2023-02-16T04:54:06Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 162.44,
+    "primaryArea": "wallet",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "kn0wmad",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 7.91,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-14T00:04:57Z",
+    "lastPR": "2023-02-14T00:04:57Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 7.91,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "mjethani",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 1.68,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-13T04:28:15Z",
+    "lastPR": "2023-02-13T04:28:15Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 1.68,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "sbddesign",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 2.04,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-11T19:33:09Z",
+    "lastPR": "2023-02-11T19:33:09Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 2.04,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "apbendi",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.64,
+    "countDays": 1,
+    "areas": {
+      "docs": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-09T03:33:54Z",
+    "lastPR": "2023-02-09T03:33:54Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.64,
+    "primaryArea": "docs",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "dplusplus1024",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.88,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-08T00:26:15Z",
+    "lastPR": "2023-02-08T00:26:15Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.88,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "jsahagun91",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.01,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-01T07:22:06Z",
+    "lastPR": "2023-02-01T07:22:06Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.01,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "worm-emoji",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.04,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-01-31T23:51:31Z",
+    "lastPR": "2023-01-31T23:51:31Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.04,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "hashbender",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 5.46,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-01-31T20:23:24Z",
+    "lastPR": "2023-01-31T20:23:24Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 5.46,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "goodwinmark",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 0.08,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-01-29T05:27:17Z",
+    "lastPR": "2023-01-29T05:27:17Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 0.08,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "rayonx",
+    "total": 1,
+    "merged": 1,
+    "totalDays": 3.5,
+    "countDays": 1,
+    "areas": {
+      "docs": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-01-28T18:35:45Z",
+    "lastPR": "2023-01-28T18:35:45Z",
+    "mergeRate": 1,
+    "avgDaysOpen": 3.5,
+    "primaryArea": "docs",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "batcavekid",
+    "total": 2,
+    "merged": 1,
+    "totalDays": 0.32,
+    "countDays": 2,
+    "areas": {
+      "feat": 1,
+      "other": 1
+    },
+    "quarters": {
+      "2022-Q4": 2
+    },
+    "firstPR": "2022-12-17T14:17:02Z",
+    "lastPR": "2022-12-24T00:19:16Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 0.16,
+    "primaryArea": "feat",
+    "activeSpanDays": 6
+  },
+  {
+    "user": "alok",
+    "total": 2,
+    "merged": 1,
+    "totalDays": 0.04,
+    "countDays": 2,
+    "areas": {
+      "other": 2
+    },
+    "quarters": {
+      "2022-Q2": 2
+    },
+    "firstPR": "2022-06-27T02:57:27Z",
+    "lastPR": "2022-06-27T02:59:24Z",
+    "mergeRate": 0.5,
+    "avgDaysOpen": 0.02,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "bruffstar",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 3.82,
+    "countDays": 1,
+    "areas": {
+      "other": 1,
+      "api": 1
+    },
+    "quarters": {
+      "2026-Q1": 2
+    },
+    "firstPR": "2026-03-18T03:22:51Z",
+    "lastPR": "2026-03-26T23:25:18Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 3.82,
+    "primaryArea": "other",
+    "activeSpanDays": 9
+  },
+  {
+    "user": "shroomtoshi",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 0,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2026-Q1": 1
+    },
+    "firstPR": "2026-03-11T20:23:16Z",
+    "lastPR": "2026-03-11T20:23:16Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "utxo-detective",
+    "total": 6,
+    "merged": 0,
+    "totalDays": 540.48,
+    "countDays": 4,
+    "areas": {
+      "api": 1,
+      "cli": 1,
+      "other": 2,
+      "wallet": 1,
+      "content": 1
+    },
+    "quarters": {
+      "2026-Q1": 2,
+      "2023-Q4": 2,
+      "2023-Q2": 1,
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-30T22:55:49Z",
+    "lastPR": "2026-03-11T05:38:54Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 135.12,
+    "primaryArea": "other",
+    "activeSpanDays": 1076
+  },
+  {
+    "user": "dave4506",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 0,
+    "areas": {
+      "indexer": 1
+    },
+    "quarters": {
+      "2026-Q1": 1
+    },
+    "firstPR": "2026-03-10T03:29:00Z",
+    "lastPR": "2026-03-10T03:29:00Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "indexer",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Bortlesboat",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 4.13,
+    "countDays": 1,
+    "areas": {
+      "indexer": 1,
+      "test": 1
+    },
+    "quarters": {
+      "2026-Q1": 2
+    },
+    "firstPR": "2026-03-04T18:21:46Z",
+    "lastPR": "2026-03-08T16:27:56Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 4.13,
+    "primaryArea": "indexer",
+    "activeSpanDays": 4
+  },
+  {
+    "user": "TatianaMoroz",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 26.5,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2026-Q1": 1
+    },
+    "firstPR": "2026-02-12T08:04:36Z",
+    "lastPR": "2026-02-12T08:04:36Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 26.5,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "satoshi1BTC",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 4.29,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2026-Q1": 1
+    },
+    "firstPR": "2026-02-01T13:34:42Z",
+    "lastPR": "2026-02-01T13:34:42Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 4.29,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "EricGrill",
+    "total": 3,
+    "merged": 0,
+    "totalDays": 53.61,
+    "countDays": 1,
+    "areas": {
+      "other": 2,
+      "wallet": 1
+    },
+    "quarters": {
+      "2026-Q1": 3
+    },
+    "firstPR": "2026-01-14T06:39:48Z",
+    "lastPR": "2026-01-14T07:00:52Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 53.61,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "haozhiliu",
+    "total": 3,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 3,
+    "areas": {
+      "other": 2,
+      "wallet": 1
+    },
+    "quarters": {
+      "2025-Q4": 1,
+      "2025-Q1": 2
+    },
+    "firstPR": "2025-03-11T10:46:25Z",
+    "lastPR": "2025-12-01T05:05:55Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "other",
+    "activeSpanDays": 265
+  },
+  {
+    "user": "portlandhodl",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "runes": 1
+    },
+    "quarters": {
+      "2025-Q4": 1
+    },
+    "firstPR": "2025-11-27T17:47:40Z",
+    "lastPR": "2025-11-27T17:47:40Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "runes",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "maradini77",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 24.26,
+    "countDays": 1,
+    "areas": {
+      "docs": 1
+    },
+    "quarters": {
+      "2025-Q4": 1
+    },
+    "firstPR": "2025-11-27T14:59:25Z",
+    "lastPR": "2025-11-27T14:59:25Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 24.26,
+    "primaryArea": "docs",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "huyejia",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 6.65,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2025-Q4": 1
+    },
+    "firstPR": "2025-11-06T06:23:53Z",
+    "lastPR": "2025-11-06T06:23:53Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 6.65,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Pray4Love1",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 102.9,
+    "countDays": 2,
+    "areas": {
+      "other": 1,
+      "wallet": 1
+    },
+    "quarters": {
+      "2025-Q3": 2
+    },
+    "firstPR": "2025-07-19T03:18:36Z",
+    "lastPR": "2025-09-25T21:04:07Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 51.45,
+    "primaryArea": "other",
+    "activeSpanDays": 69
+  },
+  {
+    "user": "prestoalvarez",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 34.15,
+    "countDays": 1,
+    "areas": {
+      "docs": 1
+    },
+    "quarters": {
+      "2025-Q3": 1
+    },
+    "firstPR": "2025-09-08T19:10:12Z",
+    "lastPR": "2025-09-08T19:10:12Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 34.15,
+    "primaryArea": "docs",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "ASuciuX",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 1.16,
+    "countDays": 1,
+    "areas": {
+      "test": 1
+    },
+    "quarters": {
+      "2025-Q3": 1
+    },
+    "firstPR": "2025-09-08T16:26:15Z",
+    "lastPR": "2025-09-08T16:26:15Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 1.16,
+    "primaryArea": "test",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "stutxo",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.01,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2025-Q3": 1
+    },
+    "firstPR": "2025-08-31T03:36:01Z",
+    "lastPR": "2025-08-31T03:36:01Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.01,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "dannydeezy",
+    "total": 5,
+    "merged": 0,
+    "totalDays": 153.18,
+    "countDays": 5,
+    "areas": {
+      "other": 3,
+      "feat": 2
+    },
+    "quarters": {
+      "2025-Q3": 1,
+      "2023-Q4": 2,
+      "2023-Q2": 2
+    },
+    "firstPR": "2023-05-25T03:44:14Z",
+    "lastPR": "2025-08-26T18:28:26Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 30.64,
+    "primaryArea": "other",
+    "activeSpanDays": 825
+  },
+  {
+    "user": "Jesusbrito04",
+    "total": 3,
+    "merged": 0,
+    "totalDays": 21.76,
+    "countDays": 2,
+    "areas": {
+      "indexer": 1,
+      "feat": 2
+    },
+    "quarters": {
+      "2025-Q3": 3
+    },
+    "firstPR": "2025-07-01T04:09:34Z",
+    "lastPR": "2025-08-22T22:02:01Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 10.88,
+    "primaryArea": "feat",
+    "activeSpanDays": 53
+  },
+  {
+    "user": "MozirDmitriy",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 74.56,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2025-Q3": 1
+    },
+    "firstPR": "2025-07-30T09:49:51Z",
+    "lastPR": "2025-07-30T09:49:51Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 74.56,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "joshdoman",
+    "total": 4,
+    "merged": 0,
+    "totalDays": 2.71,
+    "countDays": 2,
+    "areas": {
+      "other": 1,
+      "runes": 3
+    },
+    "quarters": {
+      "2025-Q3": 1,
+      "2025-Q1": 3
+    },
+    "firstPR": "2025-02-07T02:52:27Z",
+    "lastPR": "2025-07-27T19:00:32Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 1.35,
+    "primaryArea": "runes",
+    "activeSpanDays": 171
+  },
+  {
+    "user": "kks-code",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 8.33,
+    "countDays": 1,
+    "areas": {
+      "docs": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-06-21T11:14:37Z",
+    "lastPR": "2025-06-21T11:14:37Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 8.33,
+    "primaryArea": "docs",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "davidjsonn",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 23.41,
+    "countDays": 1,
+    "areas": {
+      "docs": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-06-06T09:10:27Z",
+    "lastPR": "2025-06-06T09:10:27Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 23.41,
+    "primaryArea": "docs",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Olexandr88",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 33.48,
+    "countDays": 2,
+    "areas": {
+      "other": 2
+    },
+    "quarters": {
+      "2025-Q2": 1,
+      "2025-Q1": 1
+    },
+    "firstPR": "2025-02-26T13:12:43Z",
+    "lastPR": "2025-05-25T11:19:13Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 16.74,
+    "primaryArea": "other",
+    "activeSpanDays": 88
+  },
+  {
+    "user": "xinyijun",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 0,
+    "areas": {
+      "indexer": 1
+    },
+    "quarters": {
+      "2025-Q2": 1
+    },
+    "firstPR": "2025-05-05T17:23:36Z",
+    "lastPR": "2025-05-05T17:23:36Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "indexer",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "qvkare",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 2.99,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2025-Q1": 1
+    },
+    "firstPR": "2025-03-29T18:57:03Z",
+    "lastPR": "2025-03-29T18:57:03Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 2.99,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "VanjaRo",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 274.12,
+    "countDays": 2,
+    "areas": {
+      "runes": 2
+    },
+    "quarters": {
+      "2025-Q1": 2
+    },
+    "firstPR": "2025-03-04T16:31:28Z",
+    "lastPR": "2025-03-06T11:24:03Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 137.06,
+    "primaryArea": "runes",
+    "activeSpanDays": 2
+  },
+  {
+    "user": "0xAlexKorn",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 10.05,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2025-Q1": 1
+    },
+    "firstPR": "2025-02-18T20:26:56Z",
+    "lastPR": "2025-02-18T20:26:56Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 10.05,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "hans-crypto",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.52,
+    "countDays": 1,
+    "areas": {
+      "indexer": 1
+    },
+    "quarters": {
+      "2025-Q1": 1
+    },
+    "firstPR": "2025-01-16T11:07:01Z",
+    "lastPR": "2025-01-16T11:07:01Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.52,
+    "primaryArea": "indexer",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "MARRISLHARRIS",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 4.19,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2025-Q1": 1
+    },
+    "firstPR": "2025-01-02T13:31:51Z",
+    "lastPR": "2025-01-02T13:31:51Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 4.19,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Vardominator",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q4": 1
+    },
+    "firstPR": "2024-11-28T21:29:28Z",
+    "lastPR": "2024-11-28T21:29:28Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "alpergundogdu",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 61.61,
+    "countDays": 2,
+    "areas": {
+      "api": 1,
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q4": 2
+    },
+    "firstPR": "2024-11-25T13:21:26Z",
+    "lastPR": "2024-11-27T16:02:45Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 30.8,
+    "primaryArea": "api",
+    "activeSpanDays": 2
+  },
+  {
+    "user": "3Y215",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.05,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q4": 1
+    },
+    "firstPR": "2024-11-13T07:00:34Z",
+    "lastPR": "2024-11-13T07:00:34Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.05,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "1stBitcoinSent",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 48.53,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q4": 1
+    },
+    "firstPR": "2024-11-05T08:17:19Z",
+    "lastPR": "2024-11-05T08:17:19Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 48.53,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "gosunuts",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 1.04,
+    "countDays": 2,
+    "areas": {
+      "wallet": 1,
+      "test": 1
+    },
+    "quarters": {
+      "2024-Q4": 2
+    },
+    "firstPR": "2024-10-02T02:44:30Z",
+    "lastPR": "2024-10-08T01:25:22Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.52,
+    "primaryArea": "wallet",
+    "activeSpanDays": 6
+  },
+  {
+    "user": "bitmapstr",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 100.12,
+    "countDays": 1,
+    "areas": {
+      "other": 1,
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q3": 1,
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-06-13T12:49:24Z",
+    "lastPR": "2024-09-03T18:44:35Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 100.12,
+    "primaryArea": "other",
+    "activeSpanDays": 82
+  },
+  {
+    "user": "SchnobiTobi",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 7.18,
+    "countDays": 2,
+    "areas": {
+      "refactor": 1,
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q3": 2
+    },
+    "firstPR": "2024-08-07T15:39:13Z",
+    "lastPR": "2024-08-07T15:57:01Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 3.59,
+    "primaryArea": "refactor",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "dcorral",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 2,
+    "areas": {
+      "other": 2
+    },
+    "quarters": {
+      "2024-Q3": 2
+    },
+    "firstPR": "2024-07-10T09:00:20Z",
+    "lastPR": "2024-07-19T07:32:38Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "other",
+    "activeSpanDays": 9
+  },
+  {
+    "user": "ghost",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 55.58,
+    "countDays": 2,
+    "areas": {
+      "other": 1,
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q3": 1,
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-17T14:23:45Z",
+    "lastPR": "2024-07-15T23:04:11Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 27.79,
+    "primaryArea": "other",
+    "activeSpanDays": 514
+  },
+  {
+    "user": "zhfnjust",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 111.96,
+    "countDays": 1,
+    "areas": {
+      "indexer": 1
+    },
+    "quarters": {
+      "2024-Q3": 1
+    },
+    "firstPR": "2024-07-06T01:32:32Z",
+    "lastPR": "2024-07-06T01:32:32Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 111.96,
+    "primaryArea": "indexer",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "so7ow",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 3.1,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-06-05T18:36:10Z",
+    "lastPR": "2024-06-05T18:36:10Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 3.1,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Dione-b",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 2.75,
+    "countDays": 1,
+    "areas": {
+      "runes": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-30T02:24:42Z",
+    "lastPR": "2024-04-30T02:24:42Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 2.75,
+    "primaryArea": "runes",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "linden",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.02,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-28T02:47:22Z",
+    "lastPR": "2024-04-28T02:47:22Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.02,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "nhathuyle2002",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.3,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-26T03:28:20Z",
+    "lastPR": "2024-04-26T03:28:20Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.3,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "rob-looksrare",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.02,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-25T13:46:57Z",
+    "lastPR": "2024-04-25T13:46:57Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.02,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "kien6034",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 13.39,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-25T09:48:19Z",
+    "lastPR": "2024-04-25T09:48:19Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 13.39,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "nghuyenthevinh2000",
+    "total": 3,
+    "merged": 0,
+    "totalDays": 495.41999999999996,
+    "countDays": 3,
+    "areas": {
+      "feat": 1,
+      "runes": 2
+    },
+    "quarters": {
+      "2024-Q2": 3
+    },
+    "firstPR": "2024-04-24T12:54:36Z",
+    "lastPR": "2024-04-25T08:28:11Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 165.14,
+    "primaryArea": "runes",
+    "activeSpanDays": 1
+  },
+  {
+    "user": "coinspiracynut",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 1.18,
+    "countDays": 1,
+    "areas": {
+      "indexer": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-21T19:32:21Z",
+    "lastPR": "2024-04-21T19:32:21Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 1.18,
+    "primaryArea": "indexer",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "jnapp18",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.01,
+    "countDays": 1,
+    "areas": {
+      "indexer": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-21T19:17:43Z",
+    "lastPR": "2024-04-21T19:17:43Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.01,
+    "primaryArea": "indexer",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "robinsdan",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.41,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-07T07:13:47Z",
+    "lastPR": "2024-04-07T07:13:47Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.41,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "rexwang",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "test": 1
+    },
+    "quarters": {
+      "2024-Q2": 1
+    },
+    "firstPR": "2024-04-07T04:06:00Z",
+    "lastPR": "2024-04-07T04:06:00Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "test",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "harutyunaraci",
+    "total": 3,
+    "merged": 0,
+    "totalDays": 16.7,
+    "countDays": 3,
+    "areas": {
+      "test": 1,
+      "fix": 1,
+      "wallet": 1
+    },
+    "quarters": {
+      "2024-Q2": 1,
+      "2024-Q1": 1,
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-30T16:22:03Z",
+    "lastPR": "2024-04-02T08:59:18Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 5.57,
+    "primaryArea": "test",
+    "activeSpanDays": 369
+  },
+  {
+    "user": "daywednes",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.46,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-03-29T10:15:52Z",
+    "lastPR": "2024-03-29T10:15:52Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.46,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "nowherekai",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.24,
+    "countDays": 1,
+    "areas": {
+      "runes": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-03-18T11:32:51Z",
+    "lastPR": "2024-03-18T11:32:51Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.24,
+    "primaryArea": "runes",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "cliobitcoinbank",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 14.87,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-03-08T00:49:19Z",
+    "lastPR": "2024-03-08T00:49:19Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 14.87,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "SoundsPrettyCool",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 6.16,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-03-04T22:56:46Z",
+    "lastPR": "2024-03-04T22:56:46Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 6.16,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "grdddj",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 263.46,
+    "countDays": 1,
+    "areas": {
+      "wallet": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-01-30T15:29:35Z",
+    "lastPR": "2024-01-30T15:29:35Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 263.46,
+    "primaryArea": "wallet",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "kiwidream",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 26.75,
+    "countDays": 1,
+    "areas": {
+      "wallet": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-01-19T05:29:04Z",
+    "lastPR": "2024-01-19T05:29:04Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 26.75,
+    "primaryArea": "wallet",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "lesterli",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 1.58,
+    "countDays": 1,
+    "areas": {
+      "api": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-01-16T13:32:52Z",
+    "lastPR": "2024-01-16T13:32:52Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 1.58,
+    "primaryArea": "api",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "viethapascal",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 3.94,
+    "countDays": 2,
+    "areas": {
+      "feat": 2
+    },
+    "quarters": {
+      "2024-Q1": 2
+    },
+    "firstPR": "2024-01-08T20:47:47Z",
+    "lastPR": "2024-01-08T20:59:42Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 1.97,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "wanyvic",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2024-Q1": 1
+    },
+    "firstPR": "2024-01-04T10:55:47Z",
+    "lastPR": "2024-01-04T10:55:47Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "chadwick2143",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 48.77,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-12-26T01:55:32Z",
+    "lastPR": "2023-12-26T01:55:32Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 48.77,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "xzav3r",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-12-21T02:13:07Z",
+    "lastPR": "2023-12-21T02:13:07Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "BennyTheDev",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.35,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-12-10T23:57:48Z",
+    "lastPR": "2023-12-10T23:57:48Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.35,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "DavidYashar",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.4,
+    "countDays": 1,
+    "areas": {
+      "wallet": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-12-08T11:21:41Z",
+    "lastPR": "2023-12-08T11:21:41Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.4,
+    "primaryArea": "wallet",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Raylin51",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.01,
+    "countDays": 1,
+    "areas": {
+      "api": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-12-08T10:00:30Z",
+    "lastPR": "2023-12-08T10:00:30Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.01,
+    "primaryArea": "api",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "bensig",
+    "total": 3,
+    "merged": 0,
+    "totalDays": 56.650000000000006,
+    "countDays": 3,
+    "areas": {
+      "other": 2,
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q4": 2,
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-17T00:33:43Z",
+    "lastPR": "2023-12-01T00:39:35Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 18.88,
+    "primaryArea": "other",
+    "activeSpanDays": 259
+  },
+  {
+    "user": "destinymagicchen",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.21,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-11-27T23:44:47Z",
+    "lastPR": "2023-11-27T23:44:47Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.21,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "witter-s",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "wallet": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-11-22T07:11:03Z",
+    "lastPR": "2023-11-22T07:11:03Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "wallet",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "staccDOTsol",
+    "total": 4,
+    "merged": 0,
+    "totalDays": 123.65000000000002,
+    "countDays": 4,
+    "areas": {
+      "other": 4
+    },
+    "quarters": {
+      "2023-Q4": 1,
+      "2023-Q2": 2,
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-13T15:34:51Z",
+    "lastPR": "2023-10-25T21:22:55Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 30.91,
+    "primaryArea": "other",
+    "activeSpanDays": 226
+  },
+  {
+    "user": "boppleton",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.13,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-10-17T17:20:17Z",
+    "lastPR": "2023-10-17T17:20:17Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.13,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "nothing0012",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q4": 1
+    },
+    "firstPR": "2023-10-11T18:36:11Z",
+    "lastPR": "2023-10-11T18:36:11Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "2168-btc",
+    "total": 3,
+    "merged": 0,
+    "totalDays": 31.13,
+    "countDays": 3,
+    "areas": {
+      "other": 1,
+      "feat": 2
+    },
+    "quarters": {
+      "2023-Q3": 3
+    },
+    "firstPR": "2023-08-19T18:31:51Z",
+    "lastPR": "2023-09-06T02:50:08Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 10.38,
+    "primaryArea": "feat",
+    "activeSpanDays": 17
+  },
+  {
+    "user": "NNull13",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 30.74,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-08-19T17:04:13Z",
+    "lastPR": "2023-08-19T17:04:13Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 30.74,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "devlz303",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 4.49,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-07-06T07:30:46Z",
+    "lastPR": "2023-07-06T07:30:46Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 4.49,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "sidmorizon",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "api": 1
+    },
+    "quarters": {
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-07-03T07:28:55Z",
+    "lastPR": "2023-07-03T07:28:55Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "api",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "bodily11",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 9.44,
+    "countDays": 1,
+    "areas": {
+      "api": 1
+    },
+    "quarters": {
+      "2023-Q3": 1
+    },
+    "firstPR": "2023-07-01T03:47:46Z",
+    "lastPR": "2023-07-01T03:47:46Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 9.44,
+    "primaryArea": "api",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "piesrtasty",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.98,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-06-27T20:41:41Z",
+    "lastPR": "2023-06-27T20:41:41Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.98,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "PayFv",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 2,
+    "areas": {
+      "other": 1,
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q2": 2
+    },
+    "firstPR": "2023-05-16T05:43:33Z",
+    "lastPR": "2023-06-19T02:19:05Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "other",
+    "activeSpanDays": 34
+  },
+  {
+    "user": "chrigeeel",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-06-18T20:00:48Z",
+    "lastPR": "2023-06-18T20:00:48Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "bdemann",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 74.63,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-06-18T02:55:44Z",
+    "lastPR": "2023-06-18T02:55:44Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 74.63,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "ericatallah",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 252.25,
+    "countDays": 2,
+    "areas": {
+      "other": 1,
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q2": 1,
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-17T01:38:44Z",
+    "lastPR": "2023-06-06T17:01:49Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 126.13,
+    "primaryArea": "other",
+    "activeSpanDays": 82
+  },
+  {
+    "user": "Holytrade",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 82.15,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-06-01T11:51:12Z",
+    "lastPR": "2023-06-01T11:51:12Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 82.15,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "berryhill",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "indexer": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-05-23T00:54:02Z",
+    "lastPR": "2023-05-23T00:54:02Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "indexer",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "redactedJare",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.21,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-05-22T16:37:45Z",
+    "lastPR": "2023-05-22T16:37:45Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.21,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "dephizee",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 13.46,
+    "countDays": 2,
+    "areas": {
+      "api": 2
+    },
+    "quarters": {
+      "2023-Q2": 2
+    },
+    "firstPR": "2023-05-20T12:36:49Z",
+    "lastPR": "2023-05-20T12:40:06Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 6.73,
+    "primaryArea": "api",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "btcblockz",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-05-12T13:13:23Z",
+    "lastPR": "2023-05-12T13:13:23Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "daidean",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "wallet": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-05-05T05:04:48Z",
+    "lastPR": "2023-05-05T05:04:48Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "wallet",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Isabelfoxenduke",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.98,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-04-19T20:54:17Z",
+    "lastPR": "2023-04-19T20:54:17Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.98,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "olivbau",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 12.25,
+    "countDays": 1,
+    "areas": {
+      "api": 1
+    },
+    "quarters": {
+      "2023-Q2": 1
+    },
+    "firstPR": "2023-04-07T13:27:22Z",
+    "lastPR": "2023-04-07T13:27:22Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 12.25,
+    "primaryArea": "api",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "coding-hunk",
+    "total": 3,
+    "merged": 0,
+    "totalDays": 159.06,
+    "countDays": 3,
+    "areas": {
+      "other": 2,
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q1": 3
+    },
+    "firstPR": "2023-03-07T21:10:17Z",
+    "lastPR": "2023-03-29T16:33:51Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 53.02,
+    "primaryArea": "other",
+    "activeSpanDays": 22
+  },
+  {
+    "user": "Aervue",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-27T23:01:39Z",
+    "lastPR": "2023-03-27T23:01:39Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "rudi-cilibrasi",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-16T07:10:30Z",
+    "lastPR": "2023-03-16T07:10:30Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "apezord",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 159.68,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-16T05:48:02Z",
+    "lastPR": "2023-03-16T05:48:02Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 159.68,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "jayhaizeizai",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0.03,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-15T09:45:09Z",
+    "lastPR": "2023-03-15T09:45:09Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.03,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "mikyoch",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 2.0599999999999996,
+    "countDays": 2,
+    "areas": {
+      "other": 2
+    },
+    "quarters": {
+      "2023-Q1": 2
+    },
+    "firstPR": "2023-03-14T16:42:27Z",
+    "lastPR": "2023-03-14T17:26:56Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 1.03,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "orenyomtov",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 226.39,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-10T17:13:58Z",
+    "lastPR": "2023-03-10T17:13:58Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 226.39,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "tudormunteanu",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 34.89,
+    "countDays": 1,
+    "areas": {
+      "fix": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-09T19:48:08Z",
+    "lastPR": "2023-03-09T19:48:08Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 34.89,
+    "primaryArea": "fix",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "MBenz12",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 7.81,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-08T17:41:41Z",
+    "lastPR": "2023-03-08T17:41:41Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 7.81,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "qililime",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 0.03,
+    "countDays": 2,
+    "areas": {
+      "feat": 1,
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 2
+    },
+    "firstPR": "2023-03-06T14:36:39Z",
+    "lastPR": "2023-03-07T05:44:04Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0.01,
+    "primaryArea": "feat",
+    "activeSpanDays": 1
+  },
+  {
+    "user": "RandyMcMillan",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 1.62,
+    "countDays": 1,
+    "areas": {
+      "cli": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-05T02:00:54Z",
+    "lastPR": "2023-03-05T02:00:54Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 1.62,
+    "primaryArea": "cli",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "hydren-crypto",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 0,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-03-03T12:35:38Z",
+    "lastPR": "2023-03-03T12:35:38Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 0,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "kvnn",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 42.8,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-28T05:45:52Z",
+    "lastPR": "2023-02-28T05:45:52Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 42.8,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "tiero",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 56.04,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-22T18:50:44Z",
+    "lastPR": "2023-02-22T18:50:44Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 56.04,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "shesek",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 46.38,
+    "countDays": 1,
+    "areas": {
+      "cli": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-20T09:51:23Z",
+    "lastPR": "2023-02-20T09:51:23Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 46.38,
+    "primaryArea": "cli",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "eddiewang",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 73.08,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-17T16:45:32Z",
+    "lastPR": "2023-02-17T16:45:32Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 73.08,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "magicniko",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 21.69,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-16T03:42:40Z",
+    "lastPR": "2023-02-16T03:42:40Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 21.69,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "nevets963",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 576.85,
+    "countDays": 2,
+    "areas": {
+      "other": 1,
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q1": 2
+    },
+    "firstPR": "2023-02-15T11:59:36Z",
+    "lastPR": "2023-02-15T12:05:56Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 288.43,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "Rob1Ham",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 117.31,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-12T05:03:01Z",
+    "lastPR": "2023-02-12T05:03:01Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 117.31,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "sayangel",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 2.31,
+    "countDays": 1,
+    "areas": {
+      "content": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-11T04:42:16Z",
+    "lastPR": "2023-02-11T04:42:16Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 2.31,
+    "primaryArea": "content",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "dajuguan",
+    "total": 2,
+    "merged": 0,
+    "totalDays": 212.71,
+    "countDays": 2,
+    "areas": {
+      "feat": 2
+    },
+    "quarters": {
+      "2023-Q1": 2
+    },
+    "firstPR": "2023-02-10T17:00:01Z",
+    "lastPR": "2023-02-10T17:12:14Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 106.36,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "NetWalker108",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 170.62,
+    "countDays": 1,
+    "areas": {
+      "other": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-08T00:23:28Z",
+    "lastPR": "2023-02-08T00:23:28Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 170.62,
+    "primaryArea": "other",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "lgalabru",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 82.88,
+    "countDays": 1,
+    "areas": {
+      "feat": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-07T21:32:14Z",
+    "lastPR": "2023-02-07T21:32:14Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 82.88,
+    "primaryArea": "feat",
+    "activeSpanDays": 0
+  },
+  {
+    "user": "dude513",
+    "total": 1,
+    "merged": 0,
+    "totalDays": 195.97,
+    "countDays": 1,
+    "areas": {
+      "docs": 1
+    },
+    "quarters": {
+      "2023-Q1": 1
+    },
+    "firstPR": "2023-02-07T20:54:07Z",
+    "lastPR": "2023-02-07T20:54:07Z",
+    "mergeRate": 0,
+    "avgDaysOpen": 195.97,
+    "primaryArea": "docs",
+    "activeSpanDays": 0
+  }
+]
