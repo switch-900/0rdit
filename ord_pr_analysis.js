@@ -655,15 +655,77 @@ function buildHTML(summary, timeline, rows, repoInfo, hScore, ext) {
   .btn-view { background: var(--bg3); border: 1px solid var(--border); color: var(--muted); border-radius: 5px; padding: 3px 9px; font-size: 11px; cursor: pointer; white-space: nowrap; }
   .btn-view:hover { color: var(--text); border-color: var(--accent); }
 
+  /* ── Mobile nav ────────────────────────────────────────────────────────── */
+  .mob-bar { display: none; }
+  .nav-overlay { display: none; position: fixed; inset: 0; background: #000c; z-index: 199; }
+  .nav-overlay.open { display: block; }
+
   @media (max-width: 720px) {
+    /* layout */
     .layout { grid-template-columns: 1fr; }
-    nav { display: none; }
+    main { padding: 16px 14px 80px; }
+    section { margin-bottom: 36px; }
+
+    /* hide sidebar nav, show mobile bar */
+    nav { display: none; position: fixed; top: 0; left: 0; width: 260px; height: 100vh;
+          z-index: 200; transform: translateX(-100%); transition: transform .25s ease; }
+    nav.mob-open { display: block; transform: translateX(0); }
+
+    .mob-bar { display: flex; align-items: center; justify-content: space-between;
+               position: sticky; top: 0; z-index: 150; background: var(--bg1);
+               border-bottom: 1px solid var(--border); padding: 10px 16px; }
+    .mob-bar .mob-title { font-size: 15px; font-weight: 700; color: var(--accent); }
+    .mob-bar .mob-menu  { background: none; border: 1px solid var(--border); color: var(--text);
+                          border-radius: 6px; padding: 6px 10px; font-size: 18px; cursor: pointer; line-height: 1; }
+
+    /* header */
+    header { padding: 16px 14px 12px; }
+    header h1 { font-size: 18px; }
+
+    /* cards — 2 across minimum */
+    .cards { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+    .card .value { font-size: 22px; }
+
+    /* charts */
     .chart-grid.col2, .chart-grid.col3 { grid-template-columns: 1fr; }
+    .chart-box canvas { max-height: 260px; }
+
+    /* decentralisation */
+    .decent-score-val { font-size: 28px; }
+    .prob-grid { grid-template-columns: 1fr 1fr; gap: 8px; }
+    .prob-card .pc-val { font-size: 24px; }
+
+    /* table — scrollable with fade hint */
+    .tbl-wrap { position: relative; }
+    .tbl-wrap::after { content: ''; position: absolute; top: 0; right: 0; bottom: 0;
+                       width: 32px; background: linear-gradient(to right, transparent, var(--bg0));
+                       pointer-events: none; border-radius: 0 8px 8px 0; }
+    th, td { padding: 7px 10px; }
+    /* hide less important table columns on small screens */
+    th:nth-child(7), td:nth-child(7),
+    th:nth-child(8), td:nth-child(8) { display: none; }
+
+    /* drawer full width */
     .drawer { width: 100vw; }
+    .drawer-stats { grid-template-columns: repeat(2, 1fr); }
+
+    /* search row */
+    .search-row input { max-width: 100%; }
+  }
+
+  @media (max-width: 400px) {
+    .cards { grid-template-columns: 1fr 1fr; }
+    .prob-grid { grid-template-columns: 1fr; }
   }
 <\/style>
 </head>
 <body>
+<!-- Mobile top bar -->
+<div class="mob-bar">
+  <span class="mob-title">Ord-it</span>
+  <button class="mob-menu" onclick="toggleMobNav()" aria-label="Menu">☰</button>
+</div>
+<div class="nav-overlay" id="navOverlay" onclick="toggleMobNav()"></div>
 <header>
   <h1>Ord-it <span style="font-weight:400;color:var(--muted);font-size:14px">an audit of ordinals/ord</span></h1>
   <p>Generated ${generated} &nbsp;·&nbsp; <a href="https://github.com/ordinals/ord" target="_blank">github.com/ordinals/ord</a></p>
@@ -1291,6 +1353,22 @@ function renderDrawerPRs(user, filter) {
 }
 
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeDrawer(); });
+
+// ── MOBILE NAV ───────────────────────────────────────────────────────────────
+function toggleMobNav() {
+  const nav = document.querySelector('nav');
+  const overlay = document.getElementById('navOverlay');
+  const open = nav.classList.toggle('mob-open');
+  overlay.classList.toggle('open', open);
+  document.body.style.overflow = open ? 'hidden' : '';
+}
+// Close mobile nav when a nav link is tapped
+document.querySelectorAll('nav a').forEach(a => {
+  a.addEventListener('click', () => {
+    const nav = document.querySelector('nav');
+    if (nav.classList.contains('mob-open')) toggleMobNav();
+  });
+});
 
 // nav active link on scroll
 const sections = document.querySelectorAll("section[id]");
